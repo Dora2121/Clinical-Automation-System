@@ -1,0 +1,6 @@
+﻿
+Admin ----delete,Edit(Users)
+Fontoffice-----Edit,Delete (Users)
+View Appointment of Patient-------Decline button
+No of Appointents =2
+Back button disable after logout
